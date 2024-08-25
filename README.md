@@ -41,6 +41,3 @@ Execute the application to convert regex expressions to NFA and visualize the re
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions and improvements are welcome!
 
-**Clone the Repository:**
-   ```bash
-   git clone https://github.com/YourUsername/regex-to-nfa.git
