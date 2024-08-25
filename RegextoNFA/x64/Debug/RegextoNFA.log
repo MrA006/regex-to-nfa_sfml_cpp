@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\anusa\source\repos\RegextoNFA\RegextoNFA\GUI.h(37,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anusa\source\repos\RegextoNFA\RegextoNFA\Source.cpp(17,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RegextoNFA.vcxproj -> C:\Users\anusa\source\repos\RegextoNFA\x64\Debug\RegextoNFA.exe
