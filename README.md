@@ -13,11 +13,6 @@ This project converts regular expressions (regex) into Non-deterministic Finite 
 
 - **SFML Library:** This project requires the SFML library to be set up in Visual Studio. You can download SFML from [SFML’s official website](https://www.sfml-dev.org/).
 
-
-**Clone the Repository:**
-   ```bash
-   git clone https://github.com/YourUsername/regex-to-nfa.git
-
 ## Setup Instructions
 
 ### Install SFML:
@@ -45,3 +40,7 @@ Execute the application to convert regex expressions to NFA and visualize the re
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions and improvements are welcome!
+
+**Clone the Repository:**
+   ```bash
+   git clone https://github.com/YourUsername/regex-to-nfa.git
